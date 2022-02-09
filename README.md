@@ -13,7 +13,7 @@ Eu desenvolvi esse código após ver uma publicação em um grupo do Facebook, u
 1 - Dê um clone no projeto
 
 ```
-git clone https://github.com/marcelonralves/send-mail
+git clone https://github.com/Jin960x/send-mail
 ```
 2 - Após o clone, acesse a pasta que teve o 'clone' e use o comando composer install (para instalar as dependências como o PHPMailer)
 
